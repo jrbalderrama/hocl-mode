@@ -23,7 +23,7 @@
 Normally non [:alnum:] characters.")
 
 (defvar hocl-function-regexp
-  "\\_<[a-z]\\{2\\}_[[:alnum:]_]+\\_>"
+  "\\<[a-z]\\{2\\}_[[:alnum:]_]+\\>"
   "HOCL function name pattern.
 The accepted pattern is associated to the string xx_y[y]+ where
 'x' is an alphabet char and 'y' is an alphanumeric char.  For
