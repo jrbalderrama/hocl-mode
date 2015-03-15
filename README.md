@@ -2,6 +2,8 @@
 
 HOCL mode for Emacs.
 
+![alt Screenshot](https://github.com/jrbalderrama/hocl-mode/blob/master/screenshot.png)
+
 ## Features
  - Highlight support
  - Smart comment using ```comment-dwim```
